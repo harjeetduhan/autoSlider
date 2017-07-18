@@ -7,14 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2821ADC31F1CBD2600F08023 /* viewcontroller2.m in Sources */ = {isa = PBXBuildFile; fileRef = 2821ADC21F1CBD2600F08023 /* viewcontroller2.m */; };
 		28A991D41F1894B4008AEBE2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 28A991D31F1894B4008AEBE2 /* main.m */; };
 		28A991D71F1894B4008AEBE2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 28A991D61F1894B4008AEBE2 /* AppDelegate.m */; };
-		28A991DA1F1894B4008AEBE2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28A991D91F1894B4008AEBE2 /* ViewController.m */; };
 		28A991DD1F1894B4008AEBE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28A991DB1F1894B4008AEBE2 /* Main.storyboard */; };
 		28A991E01F1894B4008AEBE2 /* progressbar.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28A991DE1F1894B4008AEBE2 /* progressbar.xcdatamodeld */; };
 		28A991E21F1894B4008AEBE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28A991E11F1894B4008AEBE2 /* Assets.xcassets */; };
 		28A991E51F1894B4008AEBE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28A991E31F1894B4008AEBE2 /* LaunchScreen.storyboard */; };
 		28A991F01F1894B4008AEBE2 /* progressbarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 28A991EF1F1894B4008AEBE2 /* progressbarTests.m */; };
+		28C14B051F1DF7C900A09844 /* 8659256133_5889f08fe8_b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28C14AFF1F1DF7C900A09844 /* 8659256133_5889f08fe8_b.jpg */; };
+		28C14B061F1DF7C900A09844 /* dal-fry-recipe13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28C14B001F1DF7C900A09844 /* dal-fry-recipe13.jpg */; };
+		28C14B071F1DF7C900A09844 /* moong-dal-fry-recipe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28C14B011F1DF7C900A09844 /* moong-dal-fry-recipe.jpg */; };
+		28C14B081F1DF7C900A09844 /* Sethji-Home-Made-Food-Restaurant-Menu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 28C14B021F1DF7C900A09844 /* Sethji-Home-Made-Food-Restaurant-Menu.jpg */; };
+		28C14B0A1F1DF7C900A09844 /* Simulator Screen Shot Jul 17, 2017, 5.09.34 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 28C14B041F1DF7C900A09844 /* Simulator Screen Shot Jul 17, 2017, 5.09.34 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,12 +33,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2821ADC11F1CBD2600F08023 /* viewcontroller2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = viewcontroller2.h; sourceTree = "<group>"; };
+		2821ADC21F1CBD2600F08023 /* viewcontroller2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = viewcontroller2.m; sourceTree = "<group>"; };
 		28A991CF1F1894B4008AEBE2 /* progressbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = progressbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28A991D31F1894B4008AEBE2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		28A991D51F1894B4008AEBE2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		28A991D61F1894B4008AEBE2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		28A991D81F1894B4008AEBE2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		28A991D91F1894B4008AEBE2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		28A991DC1F1894B4008AEBE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		28A991DF1F1894B4008AEBE2 /* progressbar.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = progressbar.xcdatamodel; sourceTree = "<group>"; };
 		28A991E11F1894B4008AEBE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -42,6 +47,11 @@
 		28A991EB1F1894B4008AEBE2 /* progressbarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = progressbarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28A991EF1F1894B4008AEBE2 /* progressbarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = progressbarTests.m; sourceTree = "<group>"; };
 		28A991F11F1894B4008AEBE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28C14AFF1F1DF7C900A09844 /* 8659256133_5889f08fe8_b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8659256133_5889f08fe8_b.jpg; sourceTree = "<group>"; };
+		28C14B001F1DF7C900A09844 /* dal-fry-recipe13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dal-fry-recipe13.jpg"; sourceTree = "<group>"; };
+		28C14B011F1DF7C900A09844 /* moong-dal-fry-recipe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "moong-dal-fry-recipe.jpg"; sourceTree = "<group>"; };
+		28C14B021F1DF7C900A09844 /* Sethji-Home-Made-Food-Restaurant-Menu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sethji-Home-Made-Food-Restaurant-Menu.jpg"; sourceTree = "<group>"; };
+		28C14B041F1DF7C900A09844 /* Simulator Screen Shot Jul 17, 2017, 5.09.34 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Jul 17, 2017, 5.09.34 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +75,8 @@
 		28A991C61F1894B4008AEBE2 = {
 			isa = PBXGroup;
 			children = (
+				2821ADC11F1CBD2600F08023 /* viewcontroller2.h */,
+				2821ADC21F1CBD2600F08023 /* viewcontroller2.m */,
 				28A991D11F1894B4008AEBE2 /* progressbar */,
 				28A991EE1F1894B4008AEBE2 /* progressbarTests */,
 				28A991D01F1894B4008AEBE2 /* Products */,
@@ -85,8 +97,6 @@
 			children = (
 				28A991D51F1894B4008AEBE2 /* AppDelegate.h */,
 				28A991D61F1894B4008AEBE2 /* AppDelegate.m */,
-				28A991D81F1894B4008AEBE2 /* ViewController.h */,
-				28A991D91F1894B4008AEBE2 /* ViewController.m */,
 				28A991DB1F1894B4008AEBE2 /* Main.storyboard */,
 				28A991E11F1894B4008AEBE2 /* Assets.xcassets */,
 				28A991E31F1894B4008AEBE2 /* LaunchScreen.storyboard */,
@@ -100,6 +110,11 @@
 		28A991D21F1894B4008AEBE2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				28C14AFF1F1DF7C900A09844 /* 8659256133_5889f08fe8_b.jpg */,
+				28C14B001F1DF7C900A09844 /* dal-fry-recipe13.jpg */,
+				28C14B011F1DF7C900A09844 /* moong-dal-fry-recipe.jpg */,
+				28C14B021F1DF7C900A09844 /* Sethji-Home-Made-Food-Restaurant-Menu.jpg */,
+				28C14B041F1DF7C900A09844 /* Simulator Screen Shot Jul 17, 2017, 5.09.34 PM.png */,
 				28A991D31F1894B4008AEBE2 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -198,7 +213,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28C14B071F1DF7C900A09844 /* moong-dal-fry-recipe.jpg in Resources */,
 				28A991E51F1894B4008AEBE2 /* LaunchScreen.storyboard in Resources */,
+				28C14B051F1DF7C900A09844 /* 8659256133_5889f08fe8_b.jpg in Resources */,
+				28C14B081F1DF7C900A09844 /* Sethji-Home-Made-Food-Restaurant-Menu.jpg in Resources */,
+				28C14B0A1F1DF7C900A09844 /* Simulator Screen Shot Jul 17, 2017, 5.09.34 PM.png in Resources */,
+				28C14B061F1DF7C900A09844 /* dal-fry-recipe13.jpg in Resources */,
 				28A991E21F1894B4008AEBE2 /* Assets.xcassets in Resources */,
 				28A991DD1F1894B4008AEBE2 /* Main.storyboard in Resources */,
 			);
@@ -218,7 +238,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28A991DA1F1894B4008AEBE2 /* ViewController.m in Sources */,
+				2821ADC31F1CBD2600F08023 /* viewcontroller2.m in Sources */,
 				28A991D71F1894B4008AEBE2 /* AppDelegate.m in Sources */,
 				28A991E01F1894B4008AEBE2 /* progressbar.xcdatamodeld in Sources */,
 				28A991D41F1894B4008AEBE2 /* main.m in Sources */,
@@ -420,6 +440,7 @@
 				28A991F61F1894B4008AEBE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		28A991F71F1894B4008AEBE2 /* Build configuration list for PBXNativeTarget "progressbarTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +449,7 @@
 				28A991F91F1894B4008AEBE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
